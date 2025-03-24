@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\00701239-2c7b-4914-b9eb-b9547cec0138_string",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\030f6e7e-c07c-468b-b8cc-38c91cb3e554_Anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\030f6e7e-c07c-468b-b8cc-38c91cb3e554_Anh1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\images\\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\80f0476e-c2d9-460c-b1f5-3a202356e14f_Anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\80f0476e-c2d9-460c-b1f5-3a202356e14f_Anh1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png",
+      "PackagePath": "staticwebassets\\images\\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\a1f7097f-9d19-4a35-ba16-0270834c5614_Anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1f7097f-9d19-4a35-ba16-0270834c5614_Anh1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\ad77b558-0c2a-464d-b914-da4eef7da13f_Anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\ad77b558-0c2a-464d-b914-da4eef7da13f_Anh1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\UserManagament-\\PhanTranMinhTam_TestLan2\\PhanTranMinhTam_TestLan2\\wwwroot\\images\\e257d713-3fbd-4298-81e7-a1fd43e1c5cf_Anh1.jpg",
+      "PackagePath": "staticwebassets\\images\\e257d713-3fbd-4298-81e7-a1fd43e1c5cf_Anh1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PhanTranMinhTam_TestLan2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PhanTranMinhTam_TestLan2.props",
+      "PackagePath": "build\\PhanTranMinhTam_TestLan2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PhanTranMinhTam_TestLan2.props",
+      "PackagePath": "buildMultiTargeting\\PhanTranMinhTam_TestLan2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PhanTranMinhTam_TestLan2.props",
+      "PackagePath": "buildTransitive\\PhanTranMinhTam_TestLan2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

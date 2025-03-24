@@ -1,0 +1,132 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\00701239-2c7b-4914-b9eb-b9547cec0138_string))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/00701239-2c7b-4914-b9eb-b9547cec0138_string</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\00701239-2c7b-4914-b9eb-b9547cec0138_string))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\030f6e7e-c07c-468b-b8cc-38c91cb3e554_Anh1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/030f6e7e-c07c-468b-b8cc-38c91cb3e554_Anh1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\030f6e7e-c07c-468b-b8cc-38c91cb3e554_Anh1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\0f26f79e-18d9-4fc2-9ef9-204163748735_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\80f0476e-c2d9-460c-b1f5-3a202356e14f_Anh1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/80f0476e-c2d9-460c-b1f5-3a202356e14f_Anh1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\80f0476e-c2d9-460c-b1f5-3a202356e14f_Anh1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\8dffbc26-41f1-4dc3-8eb5-936d8e3fc28e_Green Anime Aesthetic Minimal Planner Organizer Desktop Wallpaper.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\a1f7097f-9d19-4a35-ba16-0270834c5614_Anh1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/a1f7097f-9d19-4a35-ba16-0270834c5614_Anh1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\a1f7097f-9d19-4a35-ba16-0270834c5614_Anh1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ad77b558-0c2a-464d-b914-da4eef7da13f_Anh1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/ad77b558-0c2a-464d-b914-da4eef7da13f_Anh1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ad77b558-0c2a-464d-b914-da4eef7da13f_Anh1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e257d713-3fbd-4298-81e7-a1fd43e1c5cf_Anh1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PhanTranMinhTam_TestLan2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PhanTranMinhTam_TestLan2</BasePath>
+      <RelativePath>images/e257d713-3fbd-4298-81e7-a1fd43e1c5cf_Anh1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e257d713-3fbd-4298-81e7-a1fd43e1c5cf_Anh1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
